@@ -1,0 +1,18 @@
+Statistic Summary of SNP Density
+SNP Density Summary: 
+count    16373.000000
+mean         3.131859
+std          5.106615
+min          0.000000
+25%          0.000000
+50%          0.000000
+75%          5.070000
+max         40.280000
+Name: Density_SNPs_per_kb, dtype: float64
+ Pearson Correlation with SNP Density
+  Sample1:       r = 0.0117, p = 1.7875e-01
+  Sample2:       r = 0.0128, p = 1.3909e-01
+  Avg log expr:  r = 0.0816, p = 4.1522e-21
+Histogram saved as 'snp_density_histogram.png'
+Scatter plot saved as 'snp_expression_scatter.png'
+Bar plot saved as 'top20_snp_density_barplot.png'
