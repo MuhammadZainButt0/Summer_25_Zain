@@ -1,0 +1,22 @@
+Predicted values: [0 0 1 1 1 1 1 1 0 1 1]
+Actual Value: [0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1]
+Confusion Matrix:
+ [[2 1]
+ [1 7]]
+
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.67      0.67      0.67         3
+           1       0.88      0.88      0.88         8
+
+    accuracy                           0.82        11
+   macro avg       0.77      0.77      0.77        11
+weighted avg       0.82      0.82      0.82        11
+
+
+ Accuracy score: 0.8181818181818182
+
+ Precision score: (array([0.72727273, 0.875     , 1.        ]), array([1.   , 0.875, 0.   ]), array([0, 1]))
+
+ Mean Square Error: 0.18181818181818182
