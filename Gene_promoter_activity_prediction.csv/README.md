@@ -1,4 +1,4 @@
-# Gene Expression Prediction Pipeline
+#Predicting Gene Promoter Activity from DNA Sequence Using Machine Learning
 
 This project contains simplified Python scripts for predicting gene expression levels based on promoter sequences. The code is designed to be beginner-friendly with clear comments explaining each step.
 
