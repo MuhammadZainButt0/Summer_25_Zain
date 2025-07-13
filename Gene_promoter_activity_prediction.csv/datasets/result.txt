@@ -1,0 +1,11 @@
+✅ Merging files for processing
+✅ Sequence features extracted Successfully'
+✅ Motif features extracted Successfully............................
+✅ One-hot encoding of Promoter Sequences with fixed length 100 bases
+✅ Final dataset saved to 'data/Final_dataset.csv'
+Best Parameters: {'learning_rate': 0.01, 'max_depth': 7, 'n_estimators': 200, 'subsample': 0.8}
+Mean Squared Error: 1.5282
+Root Mean Squared Error: 1.2362
+Mean Absolute Error: 1.0834
+R² Score: 0.1398
+✅ Predictions saved to 'data/predictions.csv'
